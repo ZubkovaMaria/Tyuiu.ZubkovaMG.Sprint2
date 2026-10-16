@@ -20,8 +20,8 @@
     <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task3.V16/Tyuiu.ZubkovaMG.Sprint2.Task3.V16.csproj" Id="48c2f754-5c4b-4279-ba86-979b7c908810" />
   </Folder>
   <Folder Name="/Task4/">
-    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.Test/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Test.csproj" Id="53b0ffa8-c205-4328-aed8-147eee05dcae" />
-    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Lib/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Lib.csproj" Id="9fd028e3-b5cc-420b-8267-ee1faa57645a" />
-    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.V28/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.csproj" Id="3354644c-4046-48b5-949f-c4be43ccef91" />
+    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Lib/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Lib.csproj" Id="ecc800b6-ad4f-42d6-b185-3cb6b6e68d63" />
+    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Test/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Test.csproj" Id="b0a22fa4-f5c1-4370-995e-cd838217b8d4" />
+    <Project Path="Tyuiu.ZubkovaMG.Sprint2.Task4.V28/Tyuiu.ZubkovaMG.Sprint2.Task4.V28.csproj" Id="1b934ab7-f400-4dc7-9620-2f6619dd9319" />
   </Folder>
 </Solution>

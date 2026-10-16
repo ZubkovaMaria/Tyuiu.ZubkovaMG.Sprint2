@@ -1,6 +1,6 @@
 ﻿using Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Lib;
 
-namespace Tyuiu.ZubkovaMG.Sprint2.Task4.V28
+namespace Tyuiu.ZubkovaMG.Sprint2.Task4.V28.Program
 {
     internal class Program
     {
@@ -14,10 +14,10 @@ namespace Tyuiu.ZubkovaMG.Sprint2.Task4.V28
             Console.WriteLine("* Тема: Тернарный оператор                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #28                                                             *");
-            Console.WriteLine("* Выполнила: Зубкова Мария Геннадьевна | ИСПб-26-1                       *");
+            Console.WriteLine("* Выполнила: Зубкова Мария Геннадьевна | ИСПб-26-1                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая вычисляет значение z с использованием       *");
+            Console.WriteLine("* УСЛОВИЕ:                                                               *");
+            Console.WriteLine("* Написать программу, которая вычисляет значение z с использованием         *");
             Console.WriteLine("* тернарного оператора по заданной формуле.                               *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
