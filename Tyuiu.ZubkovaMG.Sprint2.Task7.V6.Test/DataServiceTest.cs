@@ -1,5 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Lib;
+﻿using Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Lib;
 
 namespace Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Test
 {
@@ -11,8 +10,9 @@ namespace Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Test
         {
             DataService ds = new DataService();
 
-            double x = 0.5;
-            double y = 0.5;
+            // Проверяем точку внутри заштрихованной области (например, x=0, y=1.5)
+            double x = 0.0;
+            double y = 1.5;
 
             bool res = ds.CheckDotInShadedArea(x, y);
             bool wait = true;
@@ -21,3 +21,8 @@ namespace Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Test
         }
     }
 }
+
+
+
+
+
