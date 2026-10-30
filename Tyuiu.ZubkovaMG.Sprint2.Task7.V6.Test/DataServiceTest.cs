@@ -10,7 +10,6 @@ namespace Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Test
         {
             DataService ds = new DataService();
 
-            // Проверяем точку внутри заштрихованной области (например, x=0, y=1.5)
             double x = 0.0;
             double y = 1.5;
 

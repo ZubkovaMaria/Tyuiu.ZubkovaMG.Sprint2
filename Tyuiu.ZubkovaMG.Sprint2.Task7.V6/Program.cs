@@ -1,5 +1,4 @@
-﻿using System;
-using Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Lib;
+﻿using Tyuiu.ZubkovaMG.Sprint2.Task7.V6.Lib;
 
 namespace Tyuiu.ZubkovaMG.Sprint2.Task7.V6
 {
